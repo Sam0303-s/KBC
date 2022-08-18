@@ -4,8 +4,8 @@
 
 # ------------------------------||----------------------------------
 
-## This program's pre-requisites (packages) are as follows:
-## -->  speech_recognition
-## -->  pyttsx3
-## -->  time
-## -->  PyAudio
+### This program's pre-requisites (packages) are as follows:
+### -->  speech_recognition
+### -->  pyttsx3
+### -->  time
+### -->  PyAudio
